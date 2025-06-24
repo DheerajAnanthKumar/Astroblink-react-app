@@ -1,7 +1,3 @@
-Absolutely! Here's a tailored `README.md` for your **AstroBlink React App** that uses the **NASA APOD API**, styled similarly to your Weathora README.
-
----
-
 # 🌌 AstroBlink - React App
 
 **AstroBlink** is a visually immersive React application that fetches the **Astronomy Picture of the Day (APOD)** from NASA’s public API. It showcases a stunning astronomical image or video every day along with its description, metadata, and optional keywords — making it perfect for space enthusiasts, educators, or just the cosmically curious.
